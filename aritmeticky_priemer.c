@@ -3,6 +3,7 @@
 
 float aritmeticky_priemer(float *data,int l);
 
+
 int main ()
 {
  float data[3]={1,8,6};
